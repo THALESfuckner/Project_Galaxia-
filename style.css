@@ -1,29 +1,41 @@
-.header1{
-    background-color:#333;
+.header1 {
+    background-color: #333;
     overflow: hidder;
-
 }
+
+
 /*style the links inside the navigation bar */
-.header1 a{
-    float:left;
-    color:;
-    text-align:;
-    padding:;
-    text-decoration:;
-    font-size:;
 
+.header1 a {
+    float: left;
+    color: ;
+    text-align: ;
+    padding: ;
+    text-decoration: ;
+    font-size: ;
 }
+
+
 /*change the color of links on hover */
+
 .header1 a:hover {
-    background-color:;
-    color:;
-
-  
+    background-color: ;
+    color: ;
 }
+
+
 /*add a color to the active / current link */
+
 .header a.active {
+    background-color: red;
+    color: white;
+}
 
-    background-color:red ;
-    color:white;
-
+.info a {
+    float: left;
+    color: ;
+    text-align: ;
+    padding: ;
+    text-decoration: ;
+    font-size: ;
 }
