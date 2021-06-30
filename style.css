@@ -1,29 +1,33 @@
-.header1{
-    background-color:#333;
+.header1 {
+    background-color: #333;
     overflow: hidder;
-
+    font-size: larger;
+    text-align: initial;
 }
+
 /*style the links inside the navigation bar */
-.header1 a{
-    float:left;
-    color:;
-    text-align:;
-    padding:;
-    text-decoration:;
-    font-size:;
 
+ul.nav{
+    margin:0;
+    padding:0;
 }
-/*change the color of links on hover */
-.header1 a:hover {
-    background-color:;
-    color:;
 
-  
+ul.nav li{
+    list-style:none;
+    display: inline; /*deixa o display horizontal*/ 
 }
-/*add a color to the active / current link */
-.header a.active {
 
-    background-color:red ;
-    color:white;
+ul.nav li a{
+
+    float: left;
+    border: 1px; solid #f00;
+    width:6.0em;
+    font: 0.68em; verdana, Arial, Helvetica, sans-serif;
+    background-color: ##;
+    color:#333;
+    text-aling:center;
+    padding:0  0.2em 0.2em  0;
+    text-decoration:none;
+    
 
 }
