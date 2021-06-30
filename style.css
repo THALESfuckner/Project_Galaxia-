@@ -14,7 +14,7 @@ ul.nav{
 
 ul.nav li{
     list-style:none;
-    display: inline; /*deixa o display horizontal*/ 
+    display: inline; /*deixa o display horizontal*/
 }
 
 ul.nav li a{
@@ -28,6 +28,6 @@ ul.nav li a{
     text-aling:center;
     padding:0  0.2em 0.2em  0;
     text-decoration:none;
-    
 
+s
 }
